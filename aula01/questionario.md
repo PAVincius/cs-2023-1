@@ -1,7 +1,7 @@
 Tarefa 001 - 28/07/2021 - Questionário - Perfil Estudante
 
-    Matrícula:
-    Nome:
+    Matrícula: 201910912  
+    Nome: Vin
     Qual seu conhecimento/experiência em relação ao desenvolvimento de software? Desenvolvedor fullstack JS a 2 anos e Python a 1 ano.
     Quais Linguagens de Programação você domina? JavaScript, Python, R, Java
     Conhece o paradigma de programação orientado a objetos? Sim
